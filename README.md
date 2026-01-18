@@ -203,9 +203,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 - [Stylus Extension](https://add0n.com/stylus.html) — The userstyle manager
 - [uBlock Origin](https://github.com/gorhill/uBlock) — The ad blocker
 - [UserCSS Specification](https://github.com/openstyles/stylus/wiki/UserCSS) — Format documentation
-
----
-
-<p align="center">
-  Made with ☕ for the ad-free browsing community
-</p>
